@@ -1,4 +1,4 @@
-cookie = "buvid3=7EFA37D0-F1FE-F4B2-67A7-4D5CC068ADB914443infoc; b_nut=1685935714; i-wanna-go-back=-1; _uuid=E89A53FC-24A5-27C6-78C1-C54B72B7210EB14503infoc; FEED_LIVE_VERSION=V8; buvid4=AAE58FD6-2446-1F09-6FDD-67B651BF5CD015811-023060511-9TO%2BhWhxQHNJ3e7kUXAEKSOuaP1Mma70%2FihuVRGs%2FX%2BtB6fXRkR%2B%2Fw%3D%3D; SESSDATA=c80ec98f%2C1701487755%2Ca841e%2A62; bili_jct=b715433af3ed96db45c1dff797a5153d; DedeUserID=442684513; DedeUserID__ckMd5=cee8be4fc3323d8e; CURRENT_FNVAL=4048; rpdid=0zbfAHJqia|bBS0o424|12R|3w1Q60UM; fingerprint=b32f37bd83655f0c199a35a8be87bd96; buvid_fp_plain=undefined; b_ut=5; header_theme_version=CLOSE; nostalgia_conf=-1; hit-new-style-dyn=1; hit-dyn-v2=1; LIVE_BUVID=AUTO6716861403882313; CURRENT_QUALITY=120; PVID=1; buvid_fp=733b5fc5c6eec385e826338a02b1a5e0; bp_video_offset_442684513=805386254393802900; innersign=0; b_lsid=A6934EFA_188A317535C; home_feed_column=4; browser_resolution=1121-916"
+cookie = ""
 n = 5  # 最大的查询页码
 judge = "点赞数"  # 筛选依据，请从下面的field字典里的键里选
 threshold = 50000  # 被筛选字段的下限值
